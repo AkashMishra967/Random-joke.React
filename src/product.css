@@ -1,0 +1,19 @@
+.product {
+    border: 1px solid white;
+    height: 280px;
+    width: 1200px;
+    margin-bottom: 290px;
+    background-color: white;
+}
+
+.card-parent {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card1 {
+    height: 190px;
+    width: 280px;
+    border-radius: 20px;
+    border: 1px solid black;
+}

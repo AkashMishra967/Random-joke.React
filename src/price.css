@@ -1,0 +1,18 @@
+
+.para1 {
+     margin-top: 25px;
+    height: 37px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: goldenrod;
+}
+.old-price {
+    text-decoration: line-through;
+    color: black;
+    margin-right: 8px;
+}
+
+.new-price {
+    font-weight: bold;
+    color: black;
+}
