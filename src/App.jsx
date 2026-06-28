@@ -12,7 +12,7 @@ import Joker from "./joker.jsx";
 function App() {
   return (
     <>
-      <Joker/>
+      <ProductTab/>
 
     </>
   );
